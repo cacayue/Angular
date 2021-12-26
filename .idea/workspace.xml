@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39ef12a3-d1be-42f6-9fef-4d0df341aafc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/practise/hero/src/app/components/configs/hero.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/hero/src/app/components/for/for.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/hero/src/app/components/for/for.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/hero/src/app/components/for/for.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/hero/src/app/components/ifcomponent/ifcomponent.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/hero/src/app/components/ifcomponent/ifcomponent.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practise/hero/src/app/components/ifcomponent/ifcomponent.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/hero/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/practise/hero/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/hero/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/practise/hero/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/hero/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/practise/hero/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/hero/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/practise/hero/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/hero/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/practise/hero/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/hero/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/hero/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/practise/hero/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/hero/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/practise/hero/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/hero/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/practise/hero/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/hero/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/practise/hero/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise/hero/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/practise/hero/src/styles.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22oQTxMhjdbR82OR2DxSZ3A7Awk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/practise/hero" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39ef12a3-d1be-42f6-9fef-4d0df341aafc" name="Changes" comment="" />
+      <created>1640501473333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640501473333</updated>
+      <workItem from="1640501474768" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
